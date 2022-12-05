@@ -5,7 +5,7 @@ const data = {
       url: 'https://mazipan.github.io/favicon/favicon-16x16.png',
     },
   ],
-  pageTitle: 'CV - Irfan Maulana | Bulma Resume Template',
+  pageTitle: 'RESUME - Aakash Kumar Sahoo',
   pageDesc: 'Free Resume/CV Page Template with Bulma CSS by Irfan Maulana',
   profile: {
     name: 'Irfan Maulana',
